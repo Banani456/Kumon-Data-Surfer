@@ -1,5 +1,5 @@
-Fname,Lname,Age,Enrollment,Bday
-Lakshita,Madhavan,17,false,12/12/2005
-Ananya,Shrivastava,17,false,06/29/2005
-Angela,Chempu,18,true,4/20/2005
-Doop,Patel,19,true,1/1/2004
+Fname,Lname,Age,Email,Enrollment,Bday
+Lakshita,Madhavan,17,lakshim@gmail.com,false,12/12/2005
+Ananya,Shrivastava,17,aashrnani@gmail.com,false,06/29/2005
+Angela,Chempu,18,acponnu@gmail.com,true,4/20/2005
+Doop,Patel,19,deeppatel@gmail.com,true,1/1/2004
