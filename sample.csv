@@ -1,5 +1,5 @@
-Fname,Lname,Age,Email,Enrollment,Bday
-Lakshita,Madhavan,17,lakshim@gmail.com,false,12/12/2005
-Ananya,Shrivastava,17,aashrnani@gmail.com,false,06/29/2005
-Angela,Chempu,18,acponnu@gmail.com,true,4/20/2005
-Doop,Patel,19,deeppatel@gmail.com,true,1/1/2004
+FirstName,LastName,Email,ST1,DateOfBirth,Subject,KumonGradeLevel,Grade
+Lakshita,Madhavan,lakshim@gmail.com,D,12/12/2005,Math,6A,12
+Ananya,Shrivastava,aashrnani@gmail.com,D,6/29/2005,Reading,6A,12
+Angela,Chempu,acponnu@gmail.com,A,4/20/2005,Math,J,9
+Doop,Patel,deeppatel@gmail.com,A,05/19/2004,Reading,K,9
